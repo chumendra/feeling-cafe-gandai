@@ -1,0 +1,6 @@
+{
+  "name": "Feeling Cafe Gandai",
+  "description": "Feeling Cafe Gandai serves delicious pizza, burgers, coffee, mojitos, wraps, pasta and more. Visit us on College Road, Gandai for great food and vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
